@@ -1,6 +1,6 @@
-# Flask-Docker
+# Ng-Docker
 
-A Docker container for developing and deploying Flask applications.
+A Docker container for developing and deploying Angular applications.
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ What things you need to install the software and how to install them:
 
 1. Change the environment variables in the .env file.
 
-    - PORT = port on which the Flask application will run
+    - PORT = port on which the Angular application will run
 
 1. Run the container.
 
